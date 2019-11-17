@@ -1,0 +1,8 @@
+{
+    "name": "lyrics-api",
+    "author": "ohlookitsderpy",
+    "dependencies": {
+        "polka": "0.5.2",
+        "wumpfetch": "0.3.1"
+    }
+}
